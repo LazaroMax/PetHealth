@@ -1,5 +1,7 @@
 # PetHealth
 
+[![Tests](https://github.com/LazaroMax/PetHealth/actions/workflows/tests.yml/badge.svg)](https://github.com/LazaroMax/PetHealth/actions/workflows/tests.yml)
+
 API REST para gestión veterinaria construida con **FastAPI**, **SQLAlchemy** y **SQLite**. Proyecto final del curso de Aseguramiento de la Calidad del Software, pensado para practicar pruebas con `pytest` sobre CRUD, autenticación JWT y manejo de contraseñas.
 
 ## Recursos
